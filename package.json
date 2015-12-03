@@ -4,7 +4,7 @@
   "description": "A mostly reasonable approach to JavaScript.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "publish-all": "npm publish && cd ./packages/eslint-config-airbnb && npm publish"
+    "publish-all": "npm publish"
   },
   "repository": {
     "type": "git",

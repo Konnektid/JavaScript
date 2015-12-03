@@ -1,15 +1,12 @@
-# Airbnb JavaScript Style Guide() {
+# Konnektid JavaScript Style Guide() {
 
-*A mostly reasonable approach to JavaScript*
+*A consistent and snazzy coding style*
 
-[![Downloads](https://img.shields.io/npm/dm/eslint-config-airbnb.svg)](https://www.npmjs.com/package/eslint-config-airbnb)
-[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/airbnb/javascript?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![eslint-config-konnektid](https://img.shields.io/badge/eslint--config-konnektid-61C5AA.svg)](https://github.com/Konnektid/eslint-config-konnektid)
 
 Other Style Guides
  - [ES5](es5/)
  - [React](react/)
- - [CSS & Sass](https://github.com/airbnb/css)
- - [Ruby](https://github.com/airbnb/ruby)
 
 ## Table of Contents
 
